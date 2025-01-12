@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF"  />
+<img align="right" height="150" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF"  />
 
 ###
 
